@@ -1,4 +1,4 @@
-package com/github/tbrycheva/learnjava;
+package com.github.tbrycheva.learnjava;
 
 public class HelloWorld {
     public static void main(String[] args) {
